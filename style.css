@@ -1,0 +1,25 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+.my-flex-card > div > div.card {
+    height: calc(100% - 15px);
+    margin-bottom: 15px;
+}
+
+
+ .card-body {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .card-title {
+        padding-top: 0.8125rem;
+        padding-bottom: 0.8125rem;
+    }
+    
+    
+.card {
+    margin-inline: auto;
+}
+.caurosel-caption > h5 {
+    font-size: 1.25rem;
+}
